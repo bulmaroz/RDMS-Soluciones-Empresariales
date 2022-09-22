@@ -1,4 +1,4 @@
-# -*- coding: utf-8-*-
+# -*- coding: utf-8 -*-
 
 {
     'name': ' Odoo academy ', 
@@ -18,8 +18,8 @@
     'version': '0.1',
     
     'depends': ['base'],
-    'data': [
-        
+    
+    'data': [    
         
     ],
     
