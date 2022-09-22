@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': ' Odoo academy ', 
-    'sumary': """Academy app to manage Training""",
+    'name': 'Odoo_academy', 
+    'summary': """Academy app to manage Training""",
     'description': """
     Academy Module to manage Training:
     - Course
